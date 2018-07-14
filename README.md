@@ -1,0 +1,2 @@
+# fake_news_detection_with_sklearn
+Academic Machine Learning project
